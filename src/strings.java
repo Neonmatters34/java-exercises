@@ -11,7 +11,5 @@ public class strings {
         System.out.println(message);
         message = "I can do back slashes \\, and double back slashes \\\\, and the amazing triple back-slash \\\\\\!";
         System.out.println(message);
-        System.out.println();
     }
-
 }
